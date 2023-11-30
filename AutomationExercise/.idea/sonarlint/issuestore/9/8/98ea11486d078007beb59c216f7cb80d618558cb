@@ -1,0 +1,18 @@
+
+`
+java:S1854"CRemove this useless assignment to local variable "expectedResult1".(íŞù°8“ßÛÁ1
+c
+java:S1854"ARemove this useless assignment to local variable "actualResult1".(×§§¥ÿÿÿÿÿ8·ØÒÛÁ1
+^
+java:S1854"BRemove this useless assignment to local variable "expectedResult".(Ãïª 8·ØÒÛÁ1
+b
+java:S1854"@Remove this useless assignment to local variable "actualResult".(©³‘¢şÿÿÿÿ8·ØÒÛÁ1
+S
+java:S1481"1Remove this unused "actualResult" local variable.(©³‘¢şÿÿÿÿ8¹ØÒÛÁ1
+O
+java:S1481"3Remove this unused "expectedResult" local variable.(Ãïª 8¹ØÒÛÁ1
+T
+java:S1481"2Remove this unused "actualResult1" local variable.(×§§¥ÿÿÿÿÿ8ºØÒÛÁ1
+Q
+java:S1481"4Remove this unused "expectedResult1" local variable.(íŞù°8ºØÒÛÁ1
+]	java:S125#"<This block of commented-out lines of code should be removed.(ëÎêëùÿÿÿÿ8¯¸­åÁ1
